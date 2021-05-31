@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    font-family:monospace;
+    font-size: 13px;
+    font-weight: lighter;
+    margin: 10px;
+    text-align: center;
+}
+
+#input{
+    margin-right: 5px;
+}
